@@ -62,7 +62,7 @@ int main(int argc, char const *argv[])
 	    default:
 	        wait(&estado);
 	        if(!estado){
-	          	printf("..... Analisis Completado ... Ya casi terminamos .....");
+	          	printf("..... Analisis Completo ... Falta poco .....");
 				FILE *___fp___; 
 				___fp___ = fopen(".graph.dot", "a");
 			  	fprintf(___fp___," graph hola { \n"); 
