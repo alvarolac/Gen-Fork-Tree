@@ -24,6 +24,7 @@ que se tratarán de solventar en versiones posteriores, a continuación se resum
     arcos únicos entre dos nodos, así como también otras opciones referentes al análisis.
 	4. La herramienta fuerza a que no existan procesos huérfanos; por lo cual, no deberían existir procesos hijos del
     proceso con PID = 1.
+   	5. El arbol considera al proceso que inicia la ejecución. 
    
 ### Reporte de Errores
 
